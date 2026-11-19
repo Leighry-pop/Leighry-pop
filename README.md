@@ -4,7 +4,7 @@
 
   
 <p align="center">
-  <img src="./assetngbayan/elmeowmew.gif" width="350" alt="Cat coding on a laptop"/>
+  <img src="https://raw.githubusercontent.com/Leighry-pop/Leighry-pop/36d47c0e9a2dc4f1facade73526b59979414ca97/assetngbayan/elmeowmeow.gif" width="350" alt="Cat coding on a laptop"/>
 </p>
 
 ## 🌟 About Me
