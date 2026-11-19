@@ -1,17 +1,17 @@
-## Hi there 👋
+# Hi there 👋
 
 
-**Leighry-pop/Leighry-pop** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🌟 About Me
 
-Here are some ideas to get you started:
+I’m someone who can balance both being outgoing and introverted. I enjoy connecting with others when the situation calls for it, but I also value time alone to think deeply and recharge. I naturally approach challenges like a programmer debugging code, breaking problems down, analyzing them, and finding the most effective solution. Being a problem solver and solution provider is at the core of who I am; I don’t just look for quick fixes, I look for sustainable answers.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+### 
 
-banana
+- Artificial Intelligence / Machine Learning. 🤖
+- Software Engineering / Systems Design. 👨🏻‍💻
+- 🎮
+
+
+## Programming Languages
+
+- Java ♨️
