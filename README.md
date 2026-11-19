@@ -1,9 +1,10 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=E879C5&center=true&vCenter=true&width=650&height=60&lines=Welcome+to+my+GitHub!;Java+Programming+Portfolio;Learning+%E2%80%A2+Coding+%E2%80%A2+Creating" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=39FF14&center=true&vCenter=true&width=650&height=60&lines=Welcome+to+my+GitHub!;Java+Programming+Portfolio;Learning+%E2%80%A2+Coding+%E2%80%A2+Creating" />
+</p>
 
   
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Leighry-pop/Leighry-pop/main/assetngbayan/elmeowmeow.gif" width="350" alt="Cat coding on a laptop"/>
+  <img src="./assetngbayan/elmeowmew.gif" width="350" alt="Cat coding on a laptop"/>
 </p>
 
 ## 🌟 About Me
