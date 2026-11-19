@@ -1,5 +1,8 @@
 # Hello!👋
 
+<p align="center">   <img src="./elmeowmeow.gif" width="350" alt="Cat coding on a laptop"/> </p>
+
+
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=E879C5&center=true&vCenter=true&width=650&height=60&lines=Welcome+to+my+GitHub!;Java+Programming+Portfolio;Learning+%E2%80%A2+Coding+%E2%80%A2+Creating" alt="Typing SVG" />
 </p>
