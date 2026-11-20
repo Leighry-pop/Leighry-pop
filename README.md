@@ -27,7 +27,9 @@ I also enjoy having deep conversations about topics I don't understand yet, and 
 
 ## Projects Done 📽️
 
-
+* **[ITE 102 - Java Laboratory Tasks](https://github.com/Leighry-pop/JavaRepository-ITE102)**
+  * [Midterm Lab Task 1: 2D Array](https://github.com/Leighry-pop/JavaRepository-ITE102/blob/main/Laboratory%20Tasks/Midterm%20Lab%20Tasks/MidtermLabTask-2DimArray.pdf)
+  * [Midterm Lab Task 2: 3D Array](https://github.com/Leighry-pop/JavaRepository-ITE102/blob/main/Laboratory%20Tasks/Midterm%20Lab%20Tasks/Midterm%20Lab%20Task%202%20-%203DimArray.pdf)
 
 
 
