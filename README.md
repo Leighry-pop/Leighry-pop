@@ -24,6 +24,18 @@ I also enjoy having deep conversations about topics I don't understand yet, and 
 - Java ♨️
 
 
+
+## Projects Done 📽️
+
+
+
+
+
+
+
+
+
+
 ## Development Tools 🖥️
 
 <p>
